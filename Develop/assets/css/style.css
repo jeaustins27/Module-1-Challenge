@@ -40,16 +40,16 @@ nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Styling for anchors on webpage */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Styling for all paragraphs on webpage */
 p {
     font-size: 16px;
 }
-
+/* Styling for main image on webpage */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,12 +58,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Moves images to the left side of the container */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Moves images to the right side of the container */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -116,14 +116,14 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Styling for footer of webpage */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Styling for the title inside the footer */
 footer h4 {
     font-size: 20px;
 }
