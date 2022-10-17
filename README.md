@@ -47,7 +47,7 @@ This screenshot displays the web pages appearance and functionality.
 This project has no usage. The purpose of this project was to refactor the code provided to us, clean/consolidate the css and html sheets, make sure they are in a semantic format, and optimize the webpage to be more accessible.
 
 ## Link
-[Deployed Application]()
+[Deployed Application](https://jeaustins27.github.io/Module-1-Challenge/)
 
 ## License
 
